@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>DMart SmartStock AI - API</title>
+<style>
+  body{font-family:'Segoe UI',system-ui,sans-serif;background:#F3F6F4;color:#10231E;margin:0;display:grid;place-items:center;min-height:100vh}
+  .card{background:#fff;border:1px solid #DCE5E0;border-radius:16px;padding:32px 40px;max-width:560px;box-shadow:0 8px 24px rgba(10,61,42,.08)}
+  h1{margin:0 0 8px;font-size:1.5rem} p{line-height:1.55;color:#3d524b}
+  a.btn{display:inline-block;background:#0E7C4A;color:#fff;text-decoration:none;padding:10px 18px;border-radius:10px;font-weight:600;margin-top:6px}
+  code{background:#EEF3F0;padding:2px 6px;border-radius:6px} ul{color:#3d524b;line-height:1.7}
+</style>
+</head>
+<body>
+  <div class="card">
+    <h1>DMart SmartStock AI - backend is running</h1>
+    <p>This port serves the JSON API only. The dashboard is now a <b>Streamlit</b> app.</p>
+    <a class="btn" href="http://localhost:8501">Open the dashboard (localhost:8501)</a>
+    <p>Not running yet? From the project folder run:<br><code>streamlit run frontend_streamlit/app.py</code></p>
+    <ul>
+      <li><a href="/api/health">/api/health</a></li>
+      <li><a href="/api/dashboard">/api/dashboard</a></li>
+      <li><a href="/api/branches">/api/branches</a></li>
+    </ul>
+  </div>
+</body>
+</html>

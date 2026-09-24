@@ -1,0 +1,21 @@
+sku_id,product_name,category,subcategory,base_price,unit,base_demand
+SKU001,Rice 5kg,Grocery,Staples,340.0,bag,28
+SKU002,Wheat Flour 5kg,Grocery,Staples,220.0,bag,22
+SKU003,Sugar 1kg,Grocery,Staples,45.0,pack,26
+SKU004,Cooking Oil 1L,Grocery,Staples,150.0,bottle,24
+SKU005,Milk 1L,Dairy & Beverages,Dairy,60.0,packet,45
+SKU006,Curd 500g,Dairy & Beverages,Dairy,35.0,cup,30
+SKU007,Tea 500g,Dairy & Beverages,Beverages,210.0,pack,14
+SKU008,Coffee 200g,Dairy & Beverages,Beverages,180.0,pack,10
+SKU009,Biscuits,Snacks & Packaged Food,Snacks,30.0,pack,40
+SKU010,Potato Chips,Snacks & Packaged Food,Snacks,20.0,pack,38
+SKU011,Noodles,Snacks & Packaged Food,Packaged Food,14.0,pack,42
+SKU012,Breakfast Cereal,Snacks & Packaged Food,Packaged Food,210.0,box,12
+SKU013,Bath Soap,Personal Care,Bath & Body,40.0,piece,20
+SKU014,Shampoo,Personal Care,Hair Care,150.0,bottle,15
+SKU015,Toothpaste,Personal Care,Oral Care,95.0,tube,18
+SKU016,Hand Wash,Personal Care,Bath & Body,85.0,bottle,13
+SKU017,Detergent Powder,Household,Laundry,180.0,pack,16
+SKU018,Dishwash Liquid,Household,Kitchen Care,99.0,bottle,17
+SKU019,Floor Cleaner,Household,Home Care,120.0,bottle,11
+SKU020,Toilet Cleaner,Household,Home Care,95.0,bottle,10

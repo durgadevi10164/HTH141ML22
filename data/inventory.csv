@@ -1,0 +1,101 @@
+branch_id,branch_name,sku_id,product_name,category,current_stock,safety_stock,reorder_level
+B01,Singanallur,SKU001,Rice 5kg,Grocery,45,84,140
+B01,Singanallur,SKU002,Wheat Flour 5kg,Grocery,57,66,110
+B01,Singanallur,SKU003,Sugar 1kg,Grocery,43,78,130
+B01,Singanallur,SKU004,Cooking Oil 1L,Grocery,117,72,120
+B01,Singanallur,SKU005,Milk 1L,Dairy & Beverages,137,135,225
+B01,Singanallur,SKU006,Curd 500g,Dairy & Beverages,77,90,150
+B01,Singanallur,SKU007,Tea 500g,Dairy & Beverages,156,42,70
+B01,Singanallur,SKU008,Coffee 200g,Dairy & Beverages,82,30,50
+B01,Singanallur,SKU009,Biscuits,Snacks & Packaged Food,104,120,200
+B01,Singanallur,SKU010,Potato Chips,Snacks & Packaged Food,56,114,190
+B01,Singanallur,SKU011,Noodles,Snacks & Packaged Food,76,126,210
+B01,Singanallur,SKU012,Breakfast Cereal,Snacks & Packaged Food,114,36,60
+B01,Singanallur,SKU013,Bath Soap,Personal Care,119,60,100
+B01,Singanallur,SKU014,Shampoo,Personal Care,108,45,75
+B01,Singanallur,SKU015,Toothpaste,Personal Care,88,54,90
+B01,Singanallur,SKU016,Hand Wash,Personal Care,94,39,65
+B01,Singanallur,SKU017,Detergent Powder,Household,66,48,80
+B01,Singanallur,SKU018,Dishwash Liquid,Household,156,51,85
+B01,Singanallur,SKU019,Floor Cleaner,Household,98,33,55
+B01,Singanallur,SKU020,Toilet Cleaner,Household,107,30,50
+B02,Podanur,SKU001,Rice 5kg,Grocery,66,84,140
+B02,Podanur,SKU002,Wheat Flour 5kg,Grocery,131,66,110
+B02,Podanur,SKU003,Sugar 1kg,Grocery,139,78,130
+B02,Podanur,SKU004,Cooking Oil 1L,Grocery,41,72,120
+B02,Podanur,SKU005,Milk 1L,Dairy & Beverages,98,135,225
+B02,Podanur,SKU006,Curd 500g,Dairy & Beverages,104,90,150
+B02,Podanur,SKU007,Tea 500g,Dairy & Beverages,156,42,70
+B02,Podanur,SKU008,Coffee 200g,Dairy & Beverages,41,30,50
+B02,Podanur,SKU009,Biscuits,Snacks & Packaged Food,60,120,200
+B02,Podanur,SKU010,Potato Chips,Snacks & Packaged Food,92,114,190
+B02,Podanur,SKU011,Noodles,Snacks & Packaged Food,72,126,210
+B02,Podanur,SKU012,Breakfast Cereal,Snacks & Packaged Food,98,36,60
+B02,Podanur,SKU013,Bath Soap,Personal Care,52,60,100
+B02,Podanur,SKU014,Shampoo,Personal Care,155,45,75
+B02,Podanur,SKU015,Toothpaste,Personal Care,150,54,90
+B02,Podanur,SKU016,Hand Wash,Personal Care,63,39,65
+B02,Podanur,SKU017,Detergent Powder,Household,84,48,80
+B02,Podanur,SKU018,Dishwash Liquid,Household,20,51,85
+B02,Podanur,SKU019,Floor Cleaner,Household,191,33,55
+B02,Podanur,SKU020,Toilet Cleaner,Household,116,30,50
+B03,Mettupalayam Road,SKU001,Rice 5kg,Grocery,102,84,140
+B03,Mettupalayam Road,SKU002,Wheat Flour 5kg,Grocery,60,66,110
+B03,Mettupalayam Road,SKU003,Sugar 1kg,Grocery,160,78,130
+B03,Mettupalayam Road,SKU004,Cooking Oil 1L,Grocery,46,72,120
+B03,Mettupalayam Road,SKU005,Milk 1L,Dairy & Beverages,31,135,225
+B03,Mettupalayam Road,SKU006,Curd 500g,Dairy & Beverages,159,90,150
+B03,Mettupalayam Road,SKU007,Tea 500g,Dairy & Beverages,63,42,70
+B03,Mettupalayam Road,SKU008,Coffee 200g,Dairy & Beverages,90,30,50
+B03,Mettupalayam Road,SKU009,Biscuits,Snacks & Packaged Food,28,120,200
+B03,Mettupalayam Road,SKU010,Potato Chips,Snacks & Packaged Food,64,114,190
+B03,Mettupalayam Road,SKU011,Noodles,Snacks & Packaged Food,146,126,210
+B03,Mettupalayam Road,SKU012,Breakfast Cereal,Snacks & Packaged Food,29,36,60
+B03,Mettupalayam Road,SKU013,Bath Soap,Personal Care,45,60,100
+B03,Mettupalayam Road,SKU014,Shampoo,Personal Care,150,45,75
+B03,Mettupalayam Road,SKU015,Toothpaste,Personal Care,85,54,90
+B03,Mettupalayam Road,SKU016,Hand Wash,Personal Care,40,39,65
+B03,Mettupalayam Road,SKU017,Detergent Powder,Household,120,48,80
+B03,Mettupalayam Road,SKU018,Dishwash Liquid,Household,60,51,85
+B03,Mettupalayam Road,SKU019,Floor Cleaner,Household,135,33,55
+B03,Mettupalayam Road,SKU020,Toilet Cleaner,Household,108,30,50
+B04,Chinniyampalayam,SKU001,Rice 5kg,Grocery,42,84,140
+B04,Chinniyampalayam,SKU002,Wheat Flour 5kg,Grocery,92,66,110
+B04,Chinniyampalayam,SKU003,Sugar 1kg,Grocery,63,78,130
+B04,Chinniyampalayam,SKU004,Cooking Oil 1L,Grocery,58,72,120
+B04,Chinniyampalayam,SKU005,Milk 1L,Dairy & Beverages,150,135,225
+B04,Chinniyampalayam,SKU006,Curd 500g,Dairy & Beverages,57,90,150
+B04,Chinniyampalayam,SKU007,Tea 500g,Dairy & Beverages,32,42,70
+B04,Chinniyampalayam,SKU008,Coffee 200g,Dairy & Beverages,162,30,50
+B04,Chinniyampalayam,SKU009,Biscuits,Snacks & Packaged Food,52,120,200
+B04,Chinniyampalayam,SKU010,Potato Chips,Snacks & Packaged Food,41,114,190
+B04,Chinniyampalayam,SKU011,Noodles,Snacks & Packaged Food,46,126,210
+B04,Chinniyampalayam,SKU012,Breakfast Cereal,Snacks & Packaged Food,90,36,60
+B04,Chinniyampalayam,SKU013,Bath Soap,Personal Care,50,60,100
+B04,Chinniyampalayam,SKU014,Shampoo,Personal Care,88,45,75
+B04,Chinniyampalayam,SKU015,Toothpaste,Personal Care,149,54,90
+B04,Chinniyampalayam,SKU016,Hand Wash,Personal Care,41,39,65
+B04,Chinniyampalayam,SKU017,Detergent Powder,Household,141,48,80
+B04,Chinniyampalayam,SKU018,Dishwash Liquid,Household,56,51,85
+B04,Chinniyampalayam,SKU019,Floor Cleaner,Household,77,33,55
+B04,Chinniyampalayam,SKU020,Toilet Cleaner,Household,45,30,50
+B05,Sulur,SKU001,Rice 5kg,Grocery,78,84,140
+B05,Sulur,SKU002,Wheat Flour 5kg,Grocery,90,66,110
+B05,Sulur,SKU003,Sugar 1kg,Grocery,42,78,130
+B05,Sulur,SKU004,Cooking Oil 1L,Grocery,157,72,120
+B05,Sulur,SKU005,Milk 1L,Dairy & Beverages,48,135,225
+B05,Sulur,SKU006,Curd 500g,Dairy & Beverages,59,90,150
+B05,Sulur,SKU007,Tea 500g,Dairy & Beverages,130,42,70
+B05,Sulur,SKU008,Coffee 200g,Dairy & Beverages,23,30,50
+B05,Sulur,SKU009,Biscuits,Snacks & Packaged Food,103,120,200
+B05,Sulur,SKU010,Potato Chips,Snacks & Packaged Food,134,114,190
+B05,Sulur,SKU011,Noodles,Snacks & Packaged Food,101,126,210
+B05,Sulur,SKU012,Breakfast Cereal,Snacks & Packaged Food,74,36,60
+B05,Sulur,SKU013,Bath Soap,Personal Care,77,60,100
+B05,Sulur,SKU014,Shampoo,Personal Care,50,45,75
+B05,Sulur,SKU015,Toothpaste,Personal Care,52,54,90
+B05,Sulur,SKU016,Hand Wash,Personal Care,146,39,65
+B05,Sulur,SKU017,Detergent Powder,Household,114,48,80
+B05,Sulur,SKU018,Dishwash Liquid,Household,34,51,85
+B05,Sulur,SKU019,Floor Cleaner,Household,92,33,55
+B05,Sulur,SKU020,Toilet Cleaner,Household,120,30,50

@@ -1,0 +1,12 @@
+flask==3.0.3
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.5.1
+joblib==1.4.2
+# --- Streamlit frontend (frontend_streamlit/) ---
+# Ranges (not exact pins) so pip can pick a wheel that matches your Python version.
+# streamlit is capped below 1.49 because the app uses `use_container_width`, which newer
+# releases deprecate in favour of `width="stretch"`. plotly is capped below 6 for compatibility.
+streamlit>=1.36,<1.49
+requests>=2.31,<3
+plotly>=5.20,<6

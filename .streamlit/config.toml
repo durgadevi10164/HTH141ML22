@@ -1,0 +1,10 @@
+# Picked up when you run `streamlit run frontend_streamlit/app.py` from the project root.
+[theme]
+base = "light"
+primaryColor = "#0E7C4A"
+backgroundColor = "#F3F6F4"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#10231E"
+
+[browser]
+gatherUsageStats = false

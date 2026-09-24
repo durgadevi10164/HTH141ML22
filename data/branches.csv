@@ -1,0 +1,6 @@
+branch_id,branch_name,demand_weight,city
+B01,Singanallur,1.25,Coimbatore
+B02,Podanur,1.15,Coimbatore
+B03,Mettupalayam Road,1.0,Coimbatore
+B04,Chinniyampalayam,0.8,Coimbatore
+B05,Sulur,0.65,Coimbatore

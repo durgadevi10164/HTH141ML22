@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+*.db
+*.db-journal
+.DS_Store
+node_modules/
+*.log
+.vscode/
+.idea/
